@@ -15,6 +15,7 @@ const Job = ({ job, rightSide }) => {
           className="object-cover overflow-hidden rounded-full mr-2"
           width={"100%"}
           height={"100%"}
+          alt="company logo"
         />
       </div>
       <div
@@ -36,7 +37,7 @@ const Job = ({ job, rightSide }) => {
         <div className="text-right text-white mt-6 text-xs">
           <a
             href={`${job?.website}`}
-            target="_blank"
+            target="_blank" rel="noreferrer"
             className={`py-1 px-3 border hover:bg-white ${
               rightSide ? "hover:text-cyan-600" : "hover:text-rose-400"
             }`}

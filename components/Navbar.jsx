@@ -15,14 +15,6 @@ const Navbar = ({ darkMode, setDarkMode }) => {
                 onClick={() => setDarkMode(!darkMode)}
               />
             </li>
-            <li>
-              {/* <a
-                href="#"
-                className="bg-gradient-to-r from-cyan-600 to-rose-500 text-gray-100 px-7 py-2 rounded-md ml-8 font-chivo"
-              >
-                RESUME
-              </a>{" "} */}
-            </li>
           </ul>
         </div>
       </div>

@@ -23,13 +23,12 @@ const AwardCard = ({ award, fellowship }) => {
           </p>
           <p className="text-gray-500 dark:text-white">
             {fellowship ? "Organized by " : "Awarded by "}
-            <a className="text-rose-600 font-semibold" href="#">
+            <a className="text-rose-600 font-semibold" href={award?.link}>
               {award?.organization}
-            </a>{" "}
+            </a>
             {fellowship && (
               <span>
-                and supported and certified by{" "}
-                <span className="text-rose-600">{award?.support}</span>.
+                and supported and certified by <span className="text-rose-600">{award?.support}</span>.
               </span>
             )}
           </p>

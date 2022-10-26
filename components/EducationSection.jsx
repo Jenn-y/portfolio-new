@@ -6,7 +6,7 @@ const EducationSection = () => {
   return (
     <div className="w-full min-h-[65vh] relative">
       <div className="relative bg-gradient-to-b from-rose-400 rounded-full w-[400px] h-[400px] mt-36 mx-auto overflow-hidden z-40">
-        <Image src={graduation} layout="fill" objectFit="cover" />
+        <Image src={graduation} layout="fill" objectFit="cover" alt="graduation" />
       </div>
       <div className="absolute top-0 left-0 w-full h-full">
         <div className="flex justify-between items-center z-20">

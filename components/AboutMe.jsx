@@ -21,7 +21,7 @@ const AboutMe = () => {
           Always <span className="text-rose-600 font-bold">open</span> to new opportunities and knowledge sharing.
         </p>
         <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto dark:text-white font-chivo">
-          Let's connect!{" "}
+          Let&#39;s connect!
         </p>
       </div>
       <div className="text-5xl flex justify-center items-center gap-16 py-3 text-gray-600 dark:text-white">

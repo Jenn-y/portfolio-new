@@ -18,10 +18,11 @@ const UniversityCard = ({
           className="object-cover overflow-hidden rounded-full mr-2"
           width={"100%"}
           height={"100%"}
+          alt="university logo"
         />
       </div>
       <div className={`${right ? "text-right" : "text-left"} mt-10`}>
-        <a href={link} target="_blank">
+        <a href={link} target="_blank" rel="noreferrer">
           <h1 className="text-xl font-playfairDisplay text-center mb-2">
             {name}
           </h1>

@@ -8,16 +8,14 @@ const ResearchCard = ({ paper }) => {
     <div className="border font-chivo py-2">
       <div className="flex items-center justify-between w-full font-sm tracking-wider px-5 pt-5 text-left mb-4">
         <div className="max-w-[85%]">
-          "<span className="text-cyan-600 font-bold">{paper?.title}</span>" -{" "}
-          {paper?.authors}
+        &quot;<span className="text-cyan-600 font-bold">{paper?.title}</span>&quot; - {paper?.authors}
         </div>
         <div>
           <p className="pl-5 text-sm text-gray-400 mb-2">{paper?.date}</p>
         </div>
       </div>
       <p className="pl-5 text-sm text-gray-500 mb-2 max-w-[85%] dark:text-white">
-        - Published in <span className="text-black dark:text-cyan-200">{paper?.proceedings}</span>{" "}
-        proceedings by <span className="text-black dark:text-cyan-200">{paper?.publisher}</span>
+        - Published in <span className="text-black dark:text-cyan-200">{paper?.proceedings}</span> proceedings by <span className="text-black dark:text-cyan-200">{paper?.publisher}</span>
       </p>
       <div className="flex justify-between items-center pr-2">
         <div className="max-w-[85%]">
@@ -28,10 +26,7 @@ const ResearchCard = ({ paper }) => {
           )}
           {paper?.link && (
             <p className="pl-5 text-sm text-gray-500 mb-2 dark:text-white">
-              Link:{" "}
-              <a href={paper?.link} className="text-blue-700 underline dark:text-cyan-200">
-                {paper?.link}
-              </a>
+              Link: <a href={paper?.link} className="text-blue-700 underline dark:text-cyan-200">{paper?.link}</a>
             </p>
           )}
         </div>
