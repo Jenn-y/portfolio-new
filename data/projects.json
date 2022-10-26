@@ -1,0 +1,100 @@
+[
+    {
+        "name": "BID.BA",
+        "description": "Bid.ba is an auctioning platform for vintage items that provides space and visibility to the world of art and collectables.",
+        "link": "https://bidba.herokuapp.com",
+        "img_src": "/projects/bidba.png",
+        "technologies": [
+            "React",
+            "Typescript",
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "Java",
+            "Spring",
+            "PostgreSQL",
+            "Heroku"
+        ],
+        "date": "Oct 2021 – Jan 2022"
+    },
+    {
+        "name": "FOODIE",
+        "description": "Foodie is a nutrition-based app with a customized meal planning to avoid or mitigate illnesses and difficulties that can be caused by an improper diet, such as heart diseases, diabetes, high blood pressure, and many more.",
+        "link": "https://food2die4.netlify.app",
+        "img_src": "/projects/foodie.jpg",
+        "technologies": [
+            "Angular",
+            "Typescript",
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "Java",
+            "Spring",
+            "PostgreSQL",
+            "Heroku",
+            "Netlify"
+        ],
+        "date": "Mar 2021 – Jun 2021"
+    },
+    {
+        "name": "PICK & FIX",
+        "description": "Finding a professional for an in-house service is time-consuming and with a lack of comparison. Pick&Fix offers a solution by connecting offers and demands in one place with a clear track and review of all information.",
+        "link": "https://www.youtube.com/watch?v=ObbGoPRTwCk",
+        "img_src": "/projects/homepage.jpg",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "PHP",
+            "OracleDB",
+            "Oracle Cloud",
+            "NginX"
+        ],
+        "date": "Mar 2020 – Jun 2020"
+    },
+    {
+        "name": "EMPLOYEE MANAGEMENT",
+        "description": "Simple management application to add, edit, and delete employees as well as search employees based on name, email, phone and job title in the database.",
+        "link": "https://employee-mngt.netlify.app",
+        "img_src": "/projects/empmngm.png",
+        "technologies": [
+            "Angular",
+            "Typescript",
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "Java",
+            "Spring",
+            "PostgreSQL",
+            "Heroku",
+            "Netlify"
+        ],
+        "date": "May 2021"
+    },
+    {
+        "name": "NERDY",
+        "description": "Nerdy is a personal blog site for sharing tutorials and insights of computer science related subjects. Implemented basic CRUD functionality for posts so far.",
+        "link": "https://github.com/Jenn-y/nerd_y",
+        "img_src": "/projects/nerdy.png",
+        "technologies": [
+            "React",
+            "Typescript",
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "Ruby on Rails",
+            "PostgreSQL"
+        ],
+        "date": "Apr 2021"
+    },
+    {
+        "name": "FINANCE TRACKER",
+        "description": "Finance Tracker social media app - using Devise for authentication, generators, search forms, Ajax, JavaScript, search functionality, external API usage, secure credentials management, rapid prototyping.",
+        "link": "https://github.com/Jenn-y/finance_tracker",
+        "img_src": "/projects/finance.png",
+        "technologies": [
+            "Ruby on Rails"
+        ],
+        "date": "September 2020"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Application of Augmented Reality in Text-Based Learning Environments",
+        "authors": "Dženita Đulović, Belma Ramić-Brkić",
+        "date": "Nov 2022",
+        "proceedings": "ICERI2022",
+        "publisher": "International Academy of Technology, Education and Development (IATED)",
+        "abstract": "Augmented reality (AR) is a technology that overlays digital information such as images, sounds, videos, and other graphics in the user's real world. AR applications today rely on smartphones to display a digitally augmented world through the phone's camera. With the widespread adoption of mobile technologies and recent advances in hardware, educational applications using AR technology have become more accessible and widely used. However, the potential of AR in learning and education remains underutilized. Therefore, this paper covers the research on the potential use of AR and its impact on the learning process, focusing on the vocabulary learning process in learning a new language. The aim was to create a proof of concept by developing a mobile application, called Visio, with optical character recognition (OCR) function to scan words on any surface and an AR function to display the scanned words as a 3D model in a real environment. The Visio application offers the benefits of visual memory, which has been proven to have a longer retention rate and help better understanding. In this paper, we further explain and analyze the performed steps in the system development life cycle (SDLC) of this mobile application, followed by the evaluation of the system among initial users. The preliminary results of this study show positive feedback and interest from users, which will help in further development to bring Visio to the forefront of revolutionary EdTech products with a mission to break language barriers with one word at a time.",
+        "link": "",
+        "ISBN": "978-84-09-45476-1",
+        "keywords": "Augmented Reality, Education, Language learning, Visual memorisation"
+    },
+    {
+        "title": "The influence of stringency measures and socio-economic data on COVID-19 outcomes",
+        "authors": "Azra Musić, Jasminka Hasić-Telalović, Dženita Đulović",
+        "date": "Nov 2021",
+        "proceedings": "Communications in Computer and Information Science",
+        "publisher": "Springer",
+        "abstract": "The COVID-19 pandemic has changed the way that society functions. The state governments have chosen different measures to respond to the spread of the virus as there was no clear evidence on what the best way is to respond. In this paper, we gather the evidence of governments’ stringency measures and couple it with countries’ socio-economic data (including the amounting of tests that each country performed) to explore how they influenced the COVID-19 spread. We evaluated how well seven different regression models can predict the spread of the virus. The spread of the virus is expressed through the number of positively identified individuals as well as deaths reported due to the virus. For the prediction of the number of new cases, ElasticNet algorithm was the best performing, followed by Linear Regression and LASSO. LASSO algorithms predicted the best number of new deaths. The metrics used to evaluate were: R-squared score, Adjusted R-squared Score, mean square error (MSE), mean absolute error (MAE), and root mean square error (RMSE). The most effective measure was the stay-at-home measure followed by workplace and school closures. With the availability of new and more accurate data and variables, the models can be further improved.",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-030-72805-2_3",
+        "ISBN": "978-3-030-72804-5",
+        "keywords": "COVID-19, Government response, Regression, Stringency measures"
+    },
+    {
+        "title": "Pick&Fix Platform",
+        "authors": "Dženita Đulović, Armin Salihović",
+        "date": "Nov 2020",
+        "proceedings": "Mediterranean Forum 2020, section Digitization and Emerging Technologies (MeFDIGI2020)",
+        "publisher": "University Sarajevo School of Science and Technology",
+        "abstract": "Finding a professional for an in-house service has never been harder. With numerous e-commerce websites growing day by day with vast offer, search of a professional for the right service becomes more and more time-consuming and lacks a proper comparison. Pick&Fix offers solutions to mentioned constraints by connecting offers and demands in one place with a clear track and review of all information. There are 2 types of roles for the Pick&Fix users: a service provider and a customer. Service providers define their work offers: types of services, cities offered for service and charge per hour, while customers browse all service providers according to their needs and choose the right one with the help of rating, price and review comments. Apart from interacting with one another, these 2 roles can at any point be interlaced, where a customer becomes a service provider by offering their work on the platform and the service provider becomes the customer for their own needs. With Pick&Fix, customers are guaranteed to save time and have a clear work offer comparison, while service providers gain experience and expand their businesses with a well targeted group of customers.",
+        "link": "https://dubrovackirazgovori.org/files/Publikacija%20MedForum2020%20PROCEEDINGS.pdf",
+        "ISBN": "",
+        "keywords": "Employment, Experience, Professional, Service, Repairments"
+    }
+]

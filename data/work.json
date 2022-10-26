@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Junior Software Engineer",
+        "company": "Visium",
+        "date": "Jun 2022 - present",
+        "description": "Developing secure webapps to display the prediction of machine learning models as well as designing UI/UX mockups.",
+        "logo": "/work/visium.png",
+        "website": "https://www.visium.ch/"
+    },
+    {
+        "title": "Teaching Assistant",
+        "company": "University SSST",
+        "date": "Oct 2020 - present",
+        "description": "Holding weekly lab sessions and consultations for the 2nd and 4th year students of undergraduate computer science studies at the on the subjects: Data Structures and Algorithms, Artificial Intelligence and Computer Graphics.",
+        "logo": "/work/ssst.jpg",
+        "website": "https://ssst.edu.ba/"
+    },
+    {
+        "title": "Full-Stack Intern",
+        "company": "Atlantbh",
+        "date": "Oct 2021 - Jan 2022",
+        "description": "Developed e-commerce web platform with C2C sales model and option of bidding. Using React with Typescript on frontend and Java Spring with PostgreSQL database on the backend.",
+        "logo": "/work/atbh.png",
+        "website": "https://www.atlantbh.com/"
+    },
+    {
+        "title": "Intern",
+        "company": "Sparkasse Bank",
+        "date": "May - Sep 2021",
+        "description": "Worked on developing databases using Oracle SQL Developer, integrating data from Excel files to databases through SQL procedures and creating applications in Oracle Application Express (APEX) environment.",
+        "logo": "/work/sparkasse.png",
+        "website": "https://www.sparkasse.ba/bs/stanovnistvo"
+    },
+    {
+        "title": "Volunteer",
+        "company": "ProDev Startup",
+        "date": "Aug 2020 - Jul 2021",
+        "description": "Worked on the backend API development of a ProDev startup (web-platform that enables faster and traceable professional development of people in companies, organizations, and even universities) using Ruby on Rails and PostgreSQL database.",
+        "logo": "/work/bhff.png",
+        "website": "https://www.bhfuturesfoundation.org/"
+    },
+    {
+        "title": "Computer Science Intern",
+        "company": "Koç University",
+        "date": "Jun - Aug 2019",
+        "description": "Worked for a Math department on improving the existing numerical software for optimizing eigenvalues of a symmetric matrix dependent on parameters by translating it from Matlab to C programming language.",
+        "logo": "/work/koc.png",
+        "website": "https://international.ku.edu.tr/"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Chris Adams Award",
+        "description": "Award for the highest academic performance in Computer Science department",
+        "organization": "University SSST",
+        "date": "Sep 2022"
+    },
+    {
+        "name": "1st place poster award",
+        "description": "Award for the best poster presentation of undergraduate thesis work",
+        "organization": "University SSST",
+        "date": "May 2022"
+    },
+    {
+        "name": "1st place award - Smart Buddy",
+        "description": "ITgirls Hackathon win with an online peer-to-peer tutoring platform prototype",
+        "organization": "UN Bosnia and Herzegovina",
+        "date": "Oct 2019"
+    },
+    {
+        "name": "2nd place award - Smećko",
+        "description": "UNDP Hackathon 'For a Clean Sarajevo'",
+        "organization": "UNDP",
+        "date": "Oct 2019"
+    },
+    {
+        "name": "3rd place award - Pick & Fix",
+        "description": "Digital City Challenge competition held during 4th Mediterranian Conference",
+        "organization": "University SSST",
+        "date": "Oct 2020"
+    }
+]
