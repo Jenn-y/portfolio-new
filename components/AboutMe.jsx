@@ -4,7 +4,7 @@ import { BsFacebook } from "react-icons/bs";
 const AboutMe = () => {
   return (
     <div>
-      <div className="text-justify p-10 pt-36">
+      <div className="text-justify p-10 pr-0 pt-36">
         <h2 className="text-5xl py-4 text-cyan-600 font-medium font-playfairDisplay italic md:text-6xl">
           Hello. I am Dženita.
         </h2>
