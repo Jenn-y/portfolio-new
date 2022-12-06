@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { MdOutlineKeyboardArrowDown } from "react-icons/md";
+import { MdOutlineKeyboardArrowDown, MdOutlineKeyboardArrowUp } from "react-icons/md";
 
 const ResearchCard = ({ paper }) => {
   const [open, setOpen] = useState(false);
@@ -35,7 +35,7 @@ const ResearchCard = ({ paper }) => {
           className="flex gap-2 border border-cyan-600 py-2 px-3 rounded hover:bg-cyan-600 hover:text-white"
         >
           Read Abstract
-          <MdOutlineKeyboardArrowDown size={20} />
+          {open ? <MdOutlineKeyboardArrowUp size={20} className="mt-[3px]" /> : <MdOutlineKeyboardArrowDown size={20} className="mt-[3px]" />}
         </button>
       </div>
       <div className={`${open ? "" : "hidden"}`}>

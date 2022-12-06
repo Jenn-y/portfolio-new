@@ -14,8 +14,8 @@ const AboutMe = () => {
           University of Buckingham, United Kingdom.
         </p>
         <p className="text-md py-2 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto dark:text-white font-chivo">
-          Experienced <span className="text-rose-600 font-bold">developer</span> and a highly active <span className="text-rose-600 font-bold">volunteer</span> in various
-          organizations for over 5 years now acquiring vast skillset.
+          Experienced fullstack <span className="text-rose-600 font-bold">developer</span> and a highly active <span className="text-rose-600 font-bold">volunteer</span> in various
+          organizations for over 6 years now acquiring vast skillset.
         </p>
         <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto dark:text-white font-chivo">
           Always <span className="text-rose-600 font-bold">open</span> to new opportunities and knowledge sharing.

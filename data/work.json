@@ -3,7 +3,7 @@
         "title": "Junior Software Engineer",
         "company": "Visium",
         "date": "Jun 2022 - present",
-        "description": "Developing secure webapps to display the prediction of machine learning models as well as designing UI/UX mockups.",
+        "description": "Developing secure webapps to display the prediction of machine learning models as well as designing UI/UX mockups for leading Swiss AI and ML company.",
         "logo": "/work/visium.png",
         "website": "https://www.visium.ch/"
     },
@@ -43,7 +43,7 @@
         "title": "Computer Science Intern",
         "company": "Koç University",
         "date": "Jun - Aug 2019",
-        "description": "Worked for a Math department on improving the existing numerical software for optimizing eigenvalues of a symmetric matrix dependent on parameters by translating it from Matlab to C programming language.",
+        "description": "Worked for a Math department on improving the existing numerical software for optimizing eigenvalues of a symmetric matrix dependent on parameters by translating it from Matlab to C programming language. Internship completed in Istanbul, Turkey.",
         "logo": "/work/koc.png",
         "website": "https://international.ku.edu.tr/"
     }

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { MdOutlineKeyboardArrowDown } from "react-icons/md";
+import { MdOutlineKeyboardArrowDown, MdOutlineKeyboardArrowUp } from "react-icons/md";
 
 const AwardCard = ({ award, fellowship }) => {
   const [open, setOpen] = useState(false);
@@ -12,7 +12,7 @@ const AwardCard = ({ award, fellowship }) => {
           className="flex items-center justify-between w-full font-sm tracking-wider px-5 pt-5 text-left"
         >
           <span>{award?.name}</span>
-          <MdOutlineKeyboardArrowDown size={30} />
+          {open ? <MdOutlineKeyboardArrowUp size={30} /> : <MdOutlineKeyboardArrowDown size={30} />}
         </button>
       </h2>
       <p className="pl-5 text-sm text-gray-400">{award?.date}</p>
