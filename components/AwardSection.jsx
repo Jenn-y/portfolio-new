@@ -26,7 +26,7 @@ const AwardSection = () => {
   return (
     <div className="min-h-[90vh] font-playfairDisplay pb-10 dark:text-white mt-10">
       <div className="flex w-[100%] mb-10">
-        <a href="https://www.credly.com/badges/fb81d586-3abd-4fb4-89a4-d365a74dc291/public_url" target="_blank"><Image src='/innovation.png' alt="badge picture" width={"120%"} height={"120%"} /></a>
+        <a href="https://www.credly.com/badges/fb81d586-3abd-4fb4-89a4-d365a74dc291/public_url" target="_blank" rel="noopener noreferrer"><Image src='/innovation.png' alt="badge picture" width={"120%"} height={"120%"} /></a>
         <div className="w-[2%]"></div>
         <AwardCard award={badge} fellowship={false} />
       </div>
