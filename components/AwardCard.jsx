@@ -5,7 +5,7 @@ const AwardCard = ({ award, fellowship }) => {
   const [open, setOpen] = useState(false);
 
   return (
-    <div className="border font-chivo py-2">
+    <div className="border font-chivo py-2 w-[100%]">
       <h2>
         <button
           onClick={() => setOpen(!open)}
